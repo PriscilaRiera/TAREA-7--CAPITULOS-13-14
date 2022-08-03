@@ -21,6 +21,7 @@
 
 ![Mapa Conceptual Cuadro Sinóptico Poema Vintage Beige (6)](https://user-images.githubusercontent.com/105740772/182709138-358ae8b8-2265-4e40-b445-5b2b22dc4e5b.png)
 
+![Mapa Conceptual Cuadro Sinóptico Poema Vintage Beige (7)](https://user-images.githubusercontent.com/105740772/182726873-24de0e17-3b3a-4c5b-b58d-7ff5c194bfe1.png)
 
 ## 3. Explicación y resolución de los ejercicios
 ### Capítulo XIII
