@@ -1,7 +1,13 @@
 # TAREA-7--CAPITULOS-13-14
 ## 1. Objetivos
 ### Objetivo general
+- Comprender qué son los inductores y los transformadores en los circuitos eléctricos mediante la lectira e investigación de fuentes confiables con el fin de poner en práctica los conocimientos al momento de resolver los ejercicios.
+
 ### Objetivos específicos
+- Describir qué son los inductores, los tipos de inductores que existen, los inductores en serie y paralelo, y en CD y CA.
+
+- Describir qué son los transformadores, los tipos de transformadores, qué es la inductancia, los tipos de carga en los transformadores y las características de un transformador no ideal.
+
 ## 2. Marco Teórico
 ### Capítulo XIII
 
@@ -28,6 +34,9 @@
 ### Capítulo XIV
 ## 4. Video
 ## 5. Conclusiones
+- Los inductores son aquellos elementos que actuan de forma pasiva en un circuito pero que poseen las características de almacenamiento de energía demostrado como un campo magnético, a su vez hay tipos de inductores, estos son los fios, los variables, los que poseen núcleo de aire, de hierro y de ferrita, tambien los inductores pueden ser colocados en serie y de forma paralela y su reconocimiento no es complicado pues su forma es la misma que la de los resistores en serie y paralelo.
+
+- Los transformadores son aquellos dispositivos que permiten aumentar o disminuir el voltaje en un circuito eléctrico mediante un campo magnético que controla la potencia y evita que esta varie, hay dos tipos de transformadores, estos son los del tipo elevador y los del tipo reductor, además un transformador no ideal es un transformador real.
 ## 6. Bibliografía
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
