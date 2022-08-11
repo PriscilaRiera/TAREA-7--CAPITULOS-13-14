@@ -100,6 +100,74 @@
 ![image](https://user-images.githubusercontent.com/105740772/184054288-ef82d17a-e6ef-4927-8aa0-f386f00b9420.png)
 
 ### Capítulo XIV
+2. Determine el coeficiente de acoplamiento cuando LM=1mH, L1=8mH, y L2=2mH
+
+![image](https://user-images.githubusercontent.com/105740772/184054939-f6ead406-f3d7-4d9a-9157-f69a25f41ac1.png)
+
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+
+![image](https://user-images.githubusercontent.com/105740772/184054994-ff17b2f1-62b7-4312-87ee-3cfe184cd57b.png)
+
+6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/105740772/184055043-3b2bac36-260f-4710-baad-e903a63481ae.png)
+
+8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+
+![image](https://user-images.githubusercontent.com/105740772/184055171-fb691e06-920b-4ef6-a6f3-73f76fcb7abb.png)
+
+10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
+
+![image](https://user-images.githubusercontent.com/105740772/184055090-2c41e043-d28a-4077-895d-cd5a8c98923e.png)
+
+12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+![image](https://user-images.githubusercontent.com/105740772/184055258-c04ccbc0-8a17-49a8-b255-71dab6f628df.png)
+
+14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+
+![image](https://user-images.githubusercontent.com/105740772/184055343-8c384efe-5f4a-450b-b6d5-860e052af3bf.png)
+
+16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+
+![image](https://user-images.githubusercontent.com/105740772/184055426-a61390ee-65bd-4f72-bbf6-6d09c49a25d4.png)
+
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Æ.
+
+![image](https://user-images.githubusercontent.com/105740772/184055506-a7e91ab5-d9a1-4695-9c3e-e6abee655c57.png)
+
+20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
+
+![image](https://user-images.githubusercontent.com/105740772/184055572-23c09412-38c7-42d9-8864-fc5d3a795c41.png)
+
+22. ¿Cuál es la eficiencia del transformador en el problema 21?
+
+![image](https://user-images.githubusercontent.com/105740772/184055600-2617ee4a-2fba-4ccd-86f0-95892c998eaa.png)
+
+24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V. (a) ¿Cuál es la corriente máxima en la carga? (b) ¿Cuál es el valor RL más pequeño que puede ser excitado? (c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
+
+![image](https://user-images.githubusercontent.com/105740772/184055640-94b9643b-6190-4054-a96e-0d77a21bf0cb.png)
+
+26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz. (a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario? (b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario? (c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
+
+![image](https://user-images.githubusercontent.com/105740772/184055682-504026d3-30af-4aea-aced-cd34b29b0b5e.png)
+
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.
+
+![image](https://user-images.githubusercontent.com/105740772/184055737-69490382-39bd-48da-9ba9-2bda2fa8bb34.png)
+
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+
+![image](https://user-images.githubusercontent.com/105740772/184055860-066b681e-18df-4369-afea-a45d6c01610c.png)
+
+32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
+
+![image](https://user-images.githubusercontent.com/105740772/184056018-86fe163e-d551-40f1-b315-f2b79701e907.png)
+
+34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
+
+![image](https://user-images.githubusercontent.com/105740772/184056076-729b3959-2f71-47e1-90b4-8e52354a62c2.png)
+
 ## 4. Video
 ## 5. Conclusiones
 - Los inductores son aquellos elementos que actuan de forma pasiva en un circuito pero que poseen las características de almacenamiento de energía demostrado como un campo magnético, a su vez hay tipos de inductores, estos son los fios, los variables, los que poseen núcleo de aire, de hierro y de ferrita, tambien los inductores pueden ser colocados en serie y de forma paralela y su reconocimiento no es complicado pues su forma es la misma que la de los resistores en serie y paralelo.
