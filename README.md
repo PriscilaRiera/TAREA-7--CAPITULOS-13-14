@@ -169,6 +169,9 @@
 ![image](https://user-images.githubusercontent.com/105740772/184056076-729b3959-2f71-47e1-90b4-8e52354a62c2.png)
 
 ## 4. Video
+
+https://www.youtube.com/watch?v=mQC1cGVisig
+
 ## 5. Conclusiones
 - Los inductores son aquellos elementos que actuan de forma pasiva en un circuito pero que poseen las características de almacenamiento de energía demostrado como un campo magnético, a su vez hay tipos de inductores, estos son los fios, los variables, los que poseen núcleo de aire, de hierro y de ferrita, tambien los inductores pueden ser colocados en serie y de forma paralela y su reconocimiento no es complicado pues su forma es la misma que la de los resistores en serie y paralelo.
 
